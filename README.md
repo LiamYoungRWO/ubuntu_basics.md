@@ -1,6 +1,6 @@
 # Understanding Ubuntu
 
-### A summary and reference for working with Ubuntu
+### A Summary and Reference for Working in and Understanding Ubuntu
 
 
 This is a repository created in a logical sequential order to assist in guidance of Ubuntu operations. 
