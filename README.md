@@ -8,3 +8,6 @@ This is a repository created in a logical sequential order to assist in guidance
 It is designed with the newer user in mind or one who wishes to refresh thier memory or skillset in Ubuntu. 
 
 It is numbered and chronologically walks one through the Ubuntu operation and syntax dynamics of the language and scripting. 
+
+
+It is created with a focus on operating Ubuntu via remotehost or as a server inference.
